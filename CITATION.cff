@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Cobalt-based Superalloy Properties
+message: >-
+  Data were collected up until 2022 for the intention of
+  building machine-learning models in our publication:
+  Machine-Learning Prediction of Creep Strain Rate in γ/γ′
+  Cobalt-based Superalloys by Brandon Ohl, Carelyn Campbell,
+  and David Dunand
+type: dataset
+authors:
+  - given-names: Brandon
+    family-names: Ohl
+    email: brandonohl2023@u.northwestern.edu
+    orcid: 'https://orcid.org/0000-0002-4004-5145'
+  - given-names: 'Carelyn '
+    family-names: Campbell
+  - given-names: David
+    family-names: Dunand
+repository-code: >-
+  https://github.com/BrandonOhl/ML-Creep-Prediction/blob/main/alloy%20data%20compilation_UpdateMar2023.xlsx
+abstract: >-
+  Compiled Co-based superalloy property data from literature
+  up to 2022.
+commit: Repository made public
+version: '1.0'
+date-released: '2024-09-08'
