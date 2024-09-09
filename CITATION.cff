@@ -15,10 +15,6 @@ authors:
     family-names: Ohl
     email: brandonohl2023@u.northwestern.edu
     orcid: 'https://orcid.org/0000-0002-4004-5145'
-  - given-names: 'Carelyn '
-    family-names: Campbell
-  - given-names: David
-    family-names: Dunand
 repository-code: >-
   https://github.com/BrandonOhl/ML-Creep-Prediction/blob/main/alloy%20data%20compilation_UpdateMar2023.xlsx
 abstract: >-
